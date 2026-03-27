@@ -61,8 +61,8 @@ print("The R Matrix is\n",R)
 
 ## Output
 ```
-<img width="1187" height="615" alt="image" src="https://github.com/user-attachments/assets/c4023c70-0f16-4887-8791-01b298405e83" />
-<img width="1239" height="696" alt="image" src="https://github.com/user-attachments/assets/0a30e72f-122d-4d53-a9dc-acdacd85244e" />
+<img width="1207" height="651" alt="image" src="https://github.com/user-attachments/assets/a546024c-76ac-4c51-a61a-b0b38d795b90" />
+<img width="1229" height="586" alt="image" src="https://github.com/user-attachments/assets/92a1e904-3531-4eff-9458-f58831395d87" />
 
 
 ```
