@@ -61,12 +61,15 @@ print("The R Matrix is\n",R)
 
 ## Output
 ```
+<img width="1204" height="622" alt="image" src="https://github.com/user-attachments/assets/79ca86ec-29c9-4c27-b44a-a9f026934be0" />
+
 
 <img width="1230" height="581" alt="image" src="https://github.com/user-attachments/assets/03e17e85-5e85-4c81-80b9-50806742745e" />
 
 
 ```
-developed  by : magesh s
+developed  by : magesh s 
+
 register numer : 212225230160
 
 ## Result
